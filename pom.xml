@@ -28,6 +28,6 @@
 
   </dependencies>
   <build>
-    <finalName>talk-idea-web</finalName>
+    <finalName>talk</finalName>
   </build>
 </project>
