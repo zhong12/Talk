@@ -6,7 +6,7 @@ package com.talk.example.QRCodeSoft;
 public class Test {
     public static void main(String[] args) throws Exception {
         //生成不带logo的二维码
-        String text1 = "18221208440";
+        String text1 = "182********";
         QRCodeUtil.encode(text1, "", "d:/cscs", true);
 
         //生成带logo的二维码
